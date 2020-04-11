@@ -1,0 +1,13 @@
+1,Company A,Anna,Bedecs,Owner
+2,Company C,Thomas,Axen,Purchasing Rep
+3,Company D,Christina,Lee,Purchasing Mgr.
+4,Company E,Martin,O’Donnell,Owner
+5,Company F,Francisco,Pérez-Olaeta,Purchasing Mgr.
+6,Company G,Ming-Yang,Xie,Owner
+7,Company H,Elizabeth,Andersen,Purchasing Rep
+8,Company I,Sven,Mortensen,Purchasing Mgr.
+9,Company J,Roland,Wacker,Purchasing Mgr.
+10,Company K,Peter,Krschne,Purchasing Mgr.
+11,Company L,John,Edwards,Purchasing Mgr.
+12,Company M,Andre,Ludo,Purchasing Rep
+13,Company N,Carlos,Grilo,Purchasing Rep
