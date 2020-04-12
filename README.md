@@ -1,4 +1,4 @@
-# tableau
+# Tableau
 Tableau Training Documents
 
 
